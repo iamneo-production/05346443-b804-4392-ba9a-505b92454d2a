@@ -37,6 +37,9 @@ function Signup (){
          <input type="text" name="phone" placeholder='Phone Number' required />
        </div>
        <div className="input-container">
+         <input type="text" name="phone" placeholder='Aadhaar number' required />
+       </div>
+       <div className="input-container">
          <input type="password" name="pass" placeholder='password' required />
        </div>
         <div className="input-container">
