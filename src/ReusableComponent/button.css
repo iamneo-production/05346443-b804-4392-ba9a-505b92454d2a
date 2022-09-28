@@ -1,0 +1,12 @@
+:root{
+    --btn-primary:#584B53
+}
+.btn-primary{
+  background-color: var(--theme);
+  color:whitesmoke;
+  padding: 0.5em;
+  margin: 0.5em;
+  border-radius: 0.5em;
+  box-shadow: 0 0 0.5em 0.1em #716c6f;
+  font-size: 1em;
+}
